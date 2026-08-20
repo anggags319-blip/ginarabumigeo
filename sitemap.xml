@@ -2,95 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <!-- Homepage Utama -->
+    
+    <!-- Homepage Utama Ginarabumi Geo -->
     <url>
         <loc>https://ginarabumigeo.my.id/</loc>
         <lastmod>2026-08-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
-    <!-- Layanan Geoteknik 10 Uji Utama -->
-    <url>
-        <loc>https://ginarabumigeo.my.id/#layanan</loc>
-        <lastmod>2026-08-20</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <!-- Seksi Artikel & Edukasi Geoteknik -->
-    <url>
-        <loc>https://ginarabumigeo.my.id/#artikel</loc>
-        <lastmod>2026-08-20</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.9</priority>
-    </url>
-    <!-- Artikel 1: Sondir CPT PBG -->
-    <url>
-        <loc>https://ginarabumigeo.my.id/#artikel-sondir-pbg</loc>
-        <lastmod>2026-08-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.85</priority>
-    </url>
-    <!-- Artikel 2: Bor Mesin SPT & UDS -->
-    <url>
-        <loc>https://ginarabumigeo.my.id/#artikel-bor-spt</loc>
-        <lastmod>2026-08-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.85</priority>
-    </url>
-    <!-- Artikel 3: Survey Geolistrik Akuifer -->
-    <url>
-        <loc>https://ginarabumigeo.my.id/#artikel-geolistrik-akuifer</loc>
-        <lastmod>2026-08-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.85</priority>
-    </url>
-    <!-- Artikel 4: Uji CBR, Plate Bearing & DCP -->
-    <url>
-        <loc>https://ginarabumigeo.my.id/#artikel-uji-cbr-dcp-bearing</loc>
-        <lastmod>2026-08-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.85</priority>
-    </url>
-    <!-- Artikel 5: Pumping Test & Izin SIPA -->
-    <url>
-        <loc>https://ginarabumigeo.my.id/#artikel-pumping-test-sipa</loc>
-        <lastmod>2026-08-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.85</priority>
-    </url>
-    <!-- Artikel 6: Hammer Test NDT Beton -->
-    <url>
-        <loc>https://ginarabumigeo.my.id/#artikel-hammer-test-beton</loc>
-        <lastmod>2026-08-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.85</priority>
-    </url>
-    <!-- Jangkauan Wilayah -->
-    <url>
-        <loc>https://ginarabumigeo.my.id/#wilayah</loc>
-        <lastmod>2026-08-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <!-- Keunggulan Layanan -->
-    <url>
-        <loc>https://ginarabumigeo.my.id/#keunggulan</loc>
-        <lastmod>2026-08-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <!-- Tentang Perusahaan -->
-    <url>
-        <loc>https://ginarabumigeo.my.id/#tentang</loc>
-        <lastmod>2026-08-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <!-- Informasi Kontak & WA -->
-    <url>
-        <loc>https://ginarabumigeo.my.id/#kontak</loc>
-        <lastmod>2026-08-20</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
+
 </urlset>

@@ -4,4 +4,3 @@ Disallow: /tmp/
 Disallow: /*.pdf$
 
 Sitemap: https://ginarabumigeo.my.id/sitemap.xml
-Sitemap: https://www.ginarabumigeo.my.id/sitemap.xml
